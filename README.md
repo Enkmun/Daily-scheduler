@@ -42,4 +42,5 @@ API
 * https://dayjs.com/;
 * https://momentjs.com/;
 * https://mdn.com;
+* Site is live at https://enkmun.github.io/Daily-scheduler/
 
